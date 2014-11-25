@@ -13,7 +13,7 @@ import java.util.List;
 import stan.*;
 
 public class Jabber
-                            extends Thread
+        extends Thread
 {
 //Поля////////////////////////////////////////////////////////////////////////////////////
     private Socket socket;
