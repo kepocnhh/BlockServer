@@ -23,7 +23,7 @@ public class BlockServer
     {
         Server.SetProp("/home/toha/StanleySpace/Accounts",
             "/home/toha/StanleySpace/Logs");
-        version = "/home/toha/StanleySpace/0.0.1";
+        version = "0.0.1";
         bugreportmail = "bugreport.sp@gmail.com";
         logpath = "/home/toha/StanleySpace/BlockNote/";
         port = "5555";
